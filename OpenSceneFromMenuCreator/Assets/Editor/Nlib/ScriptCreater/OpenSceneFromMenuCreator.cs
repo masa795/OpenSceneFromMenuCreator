@@ -127,6 +127,7 @@ namespace MenuCreator
 
 			builder.AppendLine("/// <summary>");
 			builder.AppendLine("/// Do not directly edit");
+			builder.AppendLine("/// This script is automatic create.");
 			builder.AppendLine("/// </summary>");
 			builder.AppendLine("public class OpenSceneFromMenu  : Editor ");
 			builder.AppendLine("{");
