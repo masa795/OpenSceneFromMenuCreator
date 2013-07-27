@@ -5,6 +5,7 @@ using UnityEditor;
 namespace MenuCreator {
 /// <summary>
 /// Do not directly edit
+/// This script is automatic create.
 /// </summary>
 public class OpenSceneFromMenu  : Editor 
 {
